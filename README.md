@@ -37,3 +37,12 @@ We can combine those commands to unchange things
 
 * git revert e46bd
 * git revert "last shi1 revert" so we can revert a revert :v
+
+### Git ignore
+To specify what type files we are going to change
+We have to create a file starting with a full stop, because it must be hidden, called .gitignore.
+
+## Branching
+
+### Create a new branch
+* 
