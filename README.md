@@ -45,4 +45,4 @@ We have to create a file starting with a full stop, because it must be hidden, c
 ## Branching
 
 ### Create a new branch
-* 
+* git checkout -b feature
