@@ -32,3 +32,8 @@ We can combine those commands to unchange things
 * git reset --soft HEAD~1 - going back one commit and files are in the index stage - with soft file are not removed
 * git reset --mixed HEAD~1 - with mixed flag, we're going back and files are in the file stage - with mixed files are not removed.
 * git reset --hard HEAD~1 - going back one commit - everything is removed - be carefull with this flag
+
+### Git Revert - revert changes after pushing to github
+
+* git revert e46bd
+* git revert "last shi1 revert" so we can revert a revert :v
