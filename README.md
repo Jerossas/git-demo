@@ -29,7 +29,6 @@ We can combine those commands to unchange things
 
 ### Git reset
 
-From commit to file system stage
 * git reset --soft HEAD~1 - going back one commit and files are in the index stage - with soft file are not removed
 * git reset --mixed HEAD~1 - with mixed flag, we're going back and files are in the file stage - with mixed files are not removed.
 * git reset --hard HEAD~1 - going back one commit - everything is removed - be carefull with this flag
