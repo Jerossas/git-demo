@@ -12,3 +12,7 @@ Demo repo
 ### Git GUI
 * git gui&
 * gitk& - viewing the history of the commits
+
+### Undoing things
+* git checkout -- file
+* git checkout .
